@@ -15,3 +15,6 @@ job_list = {'John': 'Doctor', 'Jane': 'Engineer', 'Jim': 'Teacher'}
 
 for name, job in job_list.items():
     print(f"{name} is a {job}")
+
+wade = "Wade"
+# pass is a null statement in Python. Nothing happens when it executes.
